@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hazi Feladat 1</string>
+    <string name="next2">Tovább a második képernyőre</string>
+    <string name="next3">Tovább a harmadik képernyőre</string>
+    <string name="home">Home</string>
+    <string name="textArea">Kezdeti szöveg, amely csak azért ilyen hosszú hogy lássunk sortörést.</string>
+</resources>
